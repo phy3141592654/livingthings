@@ -26,7 +26,7 @@
   ],
   "license": "0BSD",
   "scripts": {
-    "build": "gatsby build",
+    "build": "CONTENTFUL_SPACE_ID=xo8qx04wh5be CONTENTFUL_ACCESS_TOKEN=kikqxFK0I8afqscqGbMRQaSEWU_KpCb6CQPA82e1tXY gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run serve",
