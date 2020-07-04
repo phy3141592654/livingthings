@@ -11,8 +11,8 @@ const IndexPage = () => (
     <div style={{background: '#00ff44'}}>
     <SEO title="Home" />
     <Image />
-    <p>Protect the plants and animals in this world.</p>
-    <p>Every organism right from the microscopic fungi to macroscopic whales are necessary for sustaining the environment.</p>
+    <p>Protect the plants and animals in the world.</p>
+    <p>Every organism, from the microscopic fungi to macroscopic whales are necessary for sustaining the environment.</p>
     <p>Support Us. <Link to="/donate/">Donate</Link> <br /></p>
     </div>
   </Layout>
